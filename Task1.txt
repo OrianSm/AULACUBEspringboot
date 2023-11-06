@@ -1,0 +1,38 @@
+Task 1
+Title: Facial Recognition as Login Password
+2. Scope
+
+The scope of the "Facial Recognition as Login Password" project encompasses the development and implementation of a secure and user-friendly login system that replaces traditional passwords with facial recognition technology. This project aims to:
+
+- Create a robust and efficient facial recognition system for user authentication.
+- Implement a user-friendly interface for capturing and verifying facial data.
+- Test the system's performance and accuracy in real-world scenarios.
+- Explore potential applications in enhancing security and user convenience in various domains, such as mobile devices, computer systems, and access control.
+
+3. Technologies Used
+
+For the successful implementation of the facial recognition system, the following technologies were utilized:
+
+- OpenCV (cv2): OpenCV (Open Source Computer Vision Library) was used to handle image and video processing. It provides a wide range of functions for image manipulation, facial detection, and feature extraction.
+
+- Facial Recognition Library (e.g., dlib, FaceNet, or similar): A dedicated facial recognition library was employed to build and train the recognition model. These libraries offer pre-trained models and tools for facial feature extraction, matching, and recognition.
+
+- Python: The entire system was developed using the Python programming language due to its extensive support for machine learning and computer vision libraries.
+
+- User Interface Framework (e.g., Tkinter, PyQt, or similar): A graphical user interface (GUI) framework was utilized to create a user-friendly interface for capturing and verifying facial data.
+
+4. Challenges Faced
+
+During the course of this project, several challenges were encountered:
+
+- Data Collection: Gathering a diverse and representative dataset of facial images for training the model can be a time-consuming and resource-intensive process.
+
+- Model Training: Training a facial recognition model requires substantial computational resources and expertise in machine learning. Fine-tuning the model for optimal performance can be challenging.
+
+- Security and Privacy: Ensuring the security and privacy of user facial data is of paramount importance. Implementing encryption and secure storage mechanisms is a complex task.
+
+- Real-World Conditions: The system needs to perform reliably in various lighting conditions, angles, and with different facial expressions. Achieving robustness in real-world scenarios can be difficult.
+
+- User Acceptance and Usability: Convincing users to adopt facial recognition as a password replacement and ensuring a smooth user experience can be challenging.
+
+These challenges were addressed throughout the project's development, and the report will further detail the strategies employed to overcome them and achieve the project's objectives.
